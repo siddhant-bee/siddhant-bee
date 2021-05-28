@@ -1,6 +1,6 @@
 - 👋 Hi, I’m siddhant
 - 👀 I’m interested in python and data science
-- 🌱 I’m currently learning mavhine learning
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on some data science project
 - 📫 How to reach me siddhantjha12@gmail.com
 
